@@ -13,7 +13,7 @@ MongoDB conection
 
 ## Installation 🔧
 
-_nmp install_
+_npm install_
 
 _packages_
 
